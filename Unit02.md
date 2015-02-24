@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Formation of Latin Christendom** <span id="2"></span> 
 **After the fall of the Roman Empire, a number of diffuse Germanic
 kingdoms—the Visigoths, Ostrogoths, Burgundians, and Lombards—filled the

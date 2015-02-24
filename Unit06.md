@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Medieval Society** <span id="6"></span> 
 **Medieval society was characterized by three “estates:” the nobles, the
 clergy, and the commoners.  As one author of the time put it: “some

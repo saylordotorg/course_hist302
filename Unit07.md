@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Late Middle Ages** <span id="7"></span> 
 **While historians usually characterize the High Middle Ages as a period
 of prosperity and social advancement, the Late Middle Ages, by contrast,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The High Middle Ages** <span id="4"></span> 
 **Between the eleventh and thirteenth century, Europe entered a period
 known as the High Middle Ages.  The absence of the bubonic plague and

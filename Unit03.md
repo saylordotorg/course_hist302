@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Resurgence of Latin West** <span id="3"></span> 
 *By the tenth century, medieval empire-building had reached new heights
 and Germanic and Frankish monarchs held considerable power and

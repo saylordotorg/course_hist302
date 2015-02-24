@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The End of the Roman Empire** <span id="1"></span> 
 **The Roman Empire reached its zenith during the second century. 
 However, the problems of administering such a vast territory and its

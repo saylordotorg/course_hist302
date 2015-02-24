@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Origins of the Renaissance** <span id="8"></span> 
 **In Italy during the late Middle Ages, the contours of a new cultural
 movement—the Renaissance—began to emerge in urban centers such as Rome,

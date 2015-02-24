@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../../../
+previous: ../Unit09
+---
 **Unit 11: Final Exam** <span id="11"></span> 
 -   **Final Exam: The Saylor Foundation's "HIST302 Final Exam"**
     Link: The Saylor Foundation's "[HIST302 Final

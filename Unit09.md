@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Renaissance Ideas** <span id="9"></span> 
 **The advent of the Renaissance marked the end of the medieval period
 and the beginning of the early modern world.  Evidence of this

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST302: Medieval Europe"
+course_description: "An introductory survey of the history of the European Middle Ages and Renaissance. Analyzes Europe’s transformation from a feudal society to an early modern world of commercial and monarchical states."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Medieval Science, Technology, and Culture** <span
 id="5"></span> 
 **The Middle Ages were once termed the “dark ages,” but in recent
