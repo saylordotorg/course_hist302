@@ -202,3 +202,4 @@ to study from as you prepare to take the Final Exam.  
 - [Unit 8](https://legacy.saylor.org/hist302/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist302/Unit09/)
 - [Unit 10](https://legacy.saylor.org/hist302/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST302/HIST302-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST302/HIST302-FinalExam-Answers.html)
