@@ -167,7 +167,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation's "England: the Norman Conquest"**
     Link: The Saylor Foundation’s “[England: The Norman
-    Conquest](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-3.1.5-The-Norman-Conquest-FINAL1.pdf)”
+    Conquest](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-3.1.5-The-Norman-Conquest-FINAL1.pdf)”
     (PDF)  
       
      Instructions: Please read “England: The Norman Conquest.”  As you
@@ -461,7 +461,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.4.1 Origins of the Crusades** <span id="3.4.1"></span> 
 -   **Reading: The Saylor Foundation's "Origins of the Crusades"**
     Link: The Saylor Foundation’s “[Origins of the
-    Crusades](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-3.4.1-Origins-of-the-Crusades-FINAL1.pdf)”
+    Crusades](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-3.4.1-Origins-of-the-Crusades-FINAL1.pdf)”
     (PDF)  
       
      Instructions: Please read "Origins of the Crusades."  As you read,
@@ -560,13 +560,13 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundations “Unit 3 Assessment”**
     Link: The Saylor Foundations “[Unit 3
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2011/11/HIST-302-End-of-Unit-3-Assignment.FINAL_.pdf)”
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/HIST-302-End-of-Unit-3-Assignment.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please download the quiz linked above, and answer
     each question before checking your answers against The Saylor
     Foundation’s “[Unit 3 Assessment Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2011/11/HIST-302-End-of-Unit-3-Assignment.Answer-Key.FINAL_.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/11/HIST-302-End-of-Unit-3-Assignment.Answer-Key.FINAL_.pdf)”
     (PDF).
 
 
