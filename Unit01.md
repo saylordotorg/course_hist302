@@ -219,7 +219,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation's "The Development of
     Christianity"**
     Link: The Saylor Foundation's "[The Development of
-    Christianity](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-1.1.5-The-Development-of-Christianity-FINAL.pdf)"
+    Christianity](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-1.1.5-The-Development-of-Christianity-FINAL.pdf)"
     (PDF).  
       
      Instructions: Please read "The Development of Christianity" in
@@ -235,7 +235,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.2.1 Eastern Roman Empire** <span id="1.2.1"></span> 
 -   **Reading: The Saylor Foundation's "Eastern Roman Empire"**
     Link:  The Saylor Foundation's '[Eastern Roman
-    Empire](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-1.2.1-Eastern-Roman-Empire-FINAL.pdf)"
+    Empire](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-1.2.1-Eastern-Roman-Empire-FINAL.pdf)"
     (PDF)  
         
      Instructions:  Read "Eastern Roman Empire" to understand how the
@@ -373,7 +373,7 @@ id="1.3.1"></span> 
 -   **Reading: The Saylor Foundation's "Heraclius and the Byzantine
     Theme System"**
     Link: The Saylor Foundation's "[Heraclius and the Byzantine Theme
-    System](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-1.3.1-Heraclius-and-the-Byzantine-Theme-System-FINAL.pdf)"
+    System](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-1.3.1-Heraclius-and-the-Byzantine-Theme-System-FINAL.pdf)"
     (PDF).   
       
      Instructions: Please read  "Heraclius and the Byzantine Theme
@@ -432,7 +432,7 @@ id="1.3.2"></span> 
 **1.3.3 Dark Ages** <span id="1.3.3"></span> 
 -   **Reading: The Saylor Foundation's "The Dark Ages"**
     Link: The Saylor Foundation's "[The Dark
-    Ages](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-1.3.3-Dark-Ages-FINAL.pdf)"
+    Ages](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-1.3.3-Dark-Ages-FINAL.pdf)"
     (PDF).  
         
      Instructions: Instructions: Please read "The Dark Ages."  As you
@@ -466,7 +466,7 @@ id="1.3.2"></span> 
 **1.3.5 The Macedonians** <span id="1.3.5"></span> 
 -   **Reading: The Saylor Foundation's "The Macedonians"**
     Link: The Saylor Foundation's "[The
-    Macedonians](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-1.3.5-The-Macedonians-FINAL.pdf)"
+    Macedonians](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-1.3.5-The-Macedonians-FINAL.pdf)"
     (PDF).  
         
      Instructions: Please read "The Macedonians."  As you read, try to
@@ -480,7 +480,7 @@ id="1.3.2"></span> 
 **1.3.6 Byzantine Collapse** <span id="1.3.6"></span> 
 -   **Reading: The Saylor Foundation's "Byzantine Collapse"**
     Link: The Saylor Foundation's "[Byzantine
-    Collapse](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-1.3.6-Byzantine-Collapse-FINAL.pdf)"
+    Collapse](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-1.3.6-Byzantine-Collapse-FINAL.pdf)"
     (PDF)  
         
      Instructions: Please read "Byzantine Collapse."  As you read, try

@@ -107,7 +107,7 @@ Upon successful completion of this unit, the student will be able to:
 **9.1.3 Civic Humanism** <span id="9.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Civic Humanism”**
     Link: The Saylor Foundation’s “[Civic
-    Humanism](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-9.1.3-Civic-Humanism-FINAL-11.pdf)”
+    Humanism](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-9.1.3-Civic-Humanism-FINAL-11.pdf)”
     (PDF).  
         
      Instructions: Please read "Civic Humanism."  As you read, answer
@@ -156,7 +156,7 @@ Upon successful completion of this unit, the student will be able to:
 **9.2.1 Changes in Artistic Method** <span id="9.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Changes in Artistic Method”**
     Link: The Saylor Foundation’s “[Changes in Artistic
-    Method](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-9.2.1-Changes-in-Artistic-Method-FINAL-11.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-9.2.1-Changes-in-Artistic-Method-FINAL-11.pdf)”
     (PDF)  
         
      Instructions: Please read "Changes in Artistic Method.”  As you
@@ -170,7 +170,7 @@ Upon successful completion of this unit, the student will be able to:
 **9.2.2 Realism** <span id="9.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Realism”**
     Link: The Saylor Foundation’s
-    “[Realism](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-9.2.2-Realism-FINAL1.pdf)”
+    “[Realism](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-9.2.2-Realism-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read "Realism."  As you read, answer the
@@ -204,7 +204,7 @@ Upon successful completion of this unit, the student will be able to:
 **9.2.4 Italian and Dutch Artists** <span id="9.2.4"></span> 
 -   **Reading: The Saylor Foundation’s “Italian and Dutch Artists”**
     Link: The Saylor Foundation’s “[Italian and Dutch
-    Artists](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-9.2.4-Italian-and-Dutch-Artists-FINAL1.pdf)”
+    Artists](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-9.2.4-Italian-and-Dutch-Artists-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read "Italian and Dutch Artists."  As you
@@ -239,7 +239,7 @@ id="9.3.1"></span> 
     Classical Forms”**
     Link: The Saylor Foundation’s “[Improvement and Emulation of
     Classical
-    Forms](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-9.3.1-Improvement-and-Emulation-FINAL1.pdf)”
+    Forms](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-9.3.1-Improvement-and-Emulation-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read “Improvement and Emulation of Classical
@@ -257,7 +257,7 @@ id="9.3.2"></span> 
     Florentine Cathedral”**
     Link: The Saylor Foundation’s “[Brunelleschi and the Dome of the
     Florentine
-    Cathedral](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-9.3.2-Bruneschelli-and-the-Dome-FINAL1.pdf)”
+    Cathedral](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-9.3.2-Bruneschelli-and-the-Dome-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read “Brunelleschi and the Dome of the
@@ -273,7 +273,7 @@ id="9.3.2"></span> 
 **9.3.3 Rebuilding St. Peter’s Basilica** <span id="9.3.3"></span> 
 -   **Reading: Saylor Foundation’s “Rebuilding St. Peter’s Basilica”**
     Link: The Saylor Foundation’s “[Rebuilding St. Peter’s
-    Basilica](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-9.3.3-Rebuilding-St.-Peters-Basilica-FINAL1.pdf)”
+    Basilica](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-9.3.3-Rebuilding-St.-Peters-Basilica-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Rebuilding St. Peter’s Basilica.”  As
@@ -322,7 +322,7 @@ id="9.3.2"></span> 
 **9.4.3 Mathematics** <span id="9.4.3"></span> 
 -   **Reading: The Saylor Foundation’s “Mathematics”**
     Link: The Saylor Foundation’s
-    “[Mathematics](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST302-9.4.3-Mathematics-FINAL1.pdf)”
+    “[Mathematics](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-9.4.3-Mathematics-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read "Mathematics."  As you read, answer the
@@ -354,7 +354,7 @@ id="9.3.2"></span> 
     Questions Part II”**
     Link: The Saylor Foundation’s “[Medieval Europe Reading Questions
     Part
-    II](http://www.saylor.org/site/wp-content/uploads/2011/11/HIST302-PartII-ReadingQuestions-FINAL.pdf)”
+    II](https://resources.saylor.org/archived/wp-content/uploads/2011/11/HIST302-PartII-ReadingQuestions-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please respond to the questions in the PDF linked
@@ -363,13 +363,13 @@ id="9.3.2"></span> 
 
 -   **Assessment: The Saylor Foundations “Unit 9 Assessment”**
     Link: The Saylor Foundations “[Unit 9
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2011/11/HIST-302-End-of-Unit-9-Assignment.FINAL_.pdf)”
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/HIST-302-End-of-Unit-9-Assignment.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please download the quiz linked above, and answer
     each question before checking your answers against The Saylor
     Foundation’s “[Unit 9 Assessment Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2011/11/HIST-302-End-of-Unit-9-Assignment.Answer-Key.FINAL_.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/11/HIST-302-End-of-Unit-9-Assignment.Answer-Key.FINAL_.pdf)”
     (PDF).
 
 
