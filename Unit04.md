@@ -159,7 +159,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.2.2 The Idealized Emperor** <span id="4.2.2"></span> 
 -   **Reading: The Saylor Foundation's "The Idealized Emperor"**
     Link: The Saylor Foundation’s “[The Idealized
-    Emperor](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-4.2.2-Idealized-Emperor-FINAL1.pdf)”
+    Emperor](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-4.2.2-Idealized-Emperor-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read "The Idealized Emperor."  As you read,
@@ -173,7 +173,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.2.3 Flanders** <span id="4.2.3"></span> 
 -   **Reading: The Saylor Foundation's "Flanders"**
     Link: The Saylor Foundation’s
-    “[Flanders](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-4.2.3-Flanders-FINAL1.pdf)”
+    “[Flanders](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-4.2.3-Flanders-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please r"ead "Flanders.  As you read, ask yourself
@@ -201,7 +201,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.3.2 The Mongol Invasions** <span id="4.3.2"></span> 
 -   **Reading: The Saylor Foundation's "The Mongol Invasions"**
     Link: The Saylor Foundation’s “[The Mongol
-    Invasions](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-4.3.2-The-Mongol-Invasions-FINAL1.pdf)”
+    Invasions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-4.3.2-The-Mongol-Invasions-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read "The Mongol Invasions."  As you read, ask
@@ -215,7 +215,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.3.3 Great Novgorod** <span id="4.3.3"></span> 
 -   **Reading: The Saylor Foundation’s “Great Novgorod”**
     Link: The Saylor Foundation’s “[Great
-    Novgorod](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-4.3.3-Great-Novgorod-FINAL.pdf)”
+    Novgorod](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-4.3.3-Great-Novgorod-FINAL.pdf)”
     (PDF).  
         
      Instructions: Please read "Great Novgorod."  As you read, answer
@@ -229,7 +229,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.3.4 Poland under Casimir the Great** <span id="4.3.4"></span> 
 -   **Reading: John Radzilowski’s “From Wood to Stone”**
     Link: John Radzilowski’s “[From Wood to
-    Stone](https://resources.saylor.org/archived/wp-content/uploads/2011/09/FromWoodtoStone.pdf)”
+    Stone](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/FromWoodtoStone.pdf)”
     (PDF)  
         
      Instructions: Casimir the Great ruled Poland from 1333–70 and
@@ -246,7 +246,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.4.1 Iberia** <span id="4.4.1"></span> 
 -   **Reading: The Saylor Foundation's "Iberia"**
     Link: The Saylor Foundation's
-    "[Iberia](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-4.4.1-Iberia-FINAL1.pdf)"
+    "[Iberia](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-4.4.1-Iberia-FINAL1.pdf)"
     (PDF).  
       
      Instructions: Please read "Iberia." In the eighth century, nearly
@@ -280,7 +280,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.4.3 Scandinavia** <span id="4.4.3"></span> 
 -   **Reading: The Saylor Foundaton's "Scandinavia"**
     Link: The Saylor Foundaton's
-    "[Scandinavia](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-4.4.3-Scandinavia-FINAL1.pdf)"
+    "[Scandinavia](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-4.4.3-Scandinavia-FINAL1.pdf)"
     (PDF)  
       
      Instructions: Please read "Scandinavia" to better understand the

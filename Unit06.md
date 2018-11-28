@@ -63,7 +63,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation's "European Society in the High
     Middle Ages"**
     Link: The Saylor Foundation's "[European Society in the High Middle
-    Ages](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-6.1.1-European-Society-in-High-Middle-Ages-FINAL1.pdf)"
+    Ages](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-6.1.1-European-Society-in-High-Middle-Ages-FINAL1.pdf)"
     (PDF).  
         
      Instructions: Please read "European Society in the High Middle
@@ -79,7 +79,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.1.2 The Medieval Manor** <span id="6.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “Medieval Manor”**
     Link: The Saylor Foundation’s “[Medieval
-    Manor](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-6.1.2-Medieval-Manor-FINAL1.pdf)”
+    Manor](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-6.1.2-Medieval-Manor-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above, and read the entire
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.1.3 Peasants** <span id="6.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Peasants”**
     Link: The Saylor Foundation’s
-    “[Peasants](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-6.1.3-Peasants-FINAL1.pdf)”
+    “[Peasants](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-6.1.3-Peasants-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read "Peasants."  As you read, consider
@@ -357,13 +357,13 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundations “Unit 6 Assessment”**
     Link: The Saylor Foundations “[Unit 6
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/HIST-302-End-of-Unit-6-Assignment.FINAL_.pdf)”
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/HIST-302-End-of-Unit-6-Assignment.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please download the quiz linked above, and answer
     each question before checking your answers against The Saylor
     Foundation’s “[Unit 6 Assessment Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/11/HIST-302-End-of-Unit-6-Assignment.Answer-Key.FINAL_.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/HIST-302-End-of-Unit-6-Assignment.Answer-Key.FINAL_.pdf)”
     (PDF).
 
 

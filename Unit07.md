@@ -286,7 +286,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: University of Alaska: John Radzilowski’s “The Grunwald
     Campaign”**
     Link: University of Alaska: John Radzilowski’s “[The Grunwald
-    Campaign](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Grunwald.pdf)”
+    Campaign](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/Grunwald.pdf)”
     (PDF)  
         
      Instructions: Read the selection to understand the circumstances
