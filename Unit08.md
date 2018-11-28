@@ -78,7 +78,7 @@ Upon successful completion of this unit, the student will be able to:
 **8.1.2 Commercial Exchange** <span id="8.1.2"></span> 
 -   **Reading: The Saylor Foundation's "Commercial Exchange"**
     Link: The Saylor Foundation’s “[Commercial
-    Exchange](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-8.1.2-Commercial-Exchange-FINAL1.pdf)”
+    Exchange](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-8.1.2-Commercial-Exchange-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read "Commercial Exchange."  As you read,
@@ -148,7 +148,7 @@ Upon successful completion of this unit, the student will be able to:
 **8.2.1 Response to Middle Ages?** <span id="8.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Responses to the Middle Ages”**
     Link: The Saylor Foundation’s “[Responses to the Middle
-    Ages](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-8.2.1-Response-to-the-Middle-Ages-FINAL1.pdf)”
+    Ages](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-8.2.1-Response-to-the-Middle-Ages-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read "Responses to the Middle Ages.”  As you
@@ -163,7 +163,7 @@ Upon successful completion of this unit, the student will be able to:
 **8.2.2 Fall of Byzantium** <span id="8.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Fall of Byzantium”**
     Link: The Saylor Foundation’s “[Fall of
-    Byzantium](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-8.2.2-Fall-of-Byzantium-FINAL1.pdf)”
+    Byzantium](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-8.2.2-Fall-of-Byzantium-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read "Fall of Byzantium”  As you read, answer
@@ -214,7 +214,7 @@ id="8.2.4"></span> 
 **8.2.5 Black Death** <span id="8.2.5"></span> 
 -   **Reading: The Saylor Foundation’s “Black Death”**
     Link: The Saylor Foundation’s “[Black
-    Death](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-8.2.5-Black-Death-FINAL1.pdf)”
+    Death](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-8.2.5-Black-Death-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read "Black Death."  As you read, answer the
@@ -246,7 +246,7 @@ id="8.2.4"></span> 
 **8.3.1 The Northern Renaissance** <span id="8.3.1"></span> 
 -   **Reading: The Saylor Foundation’s “Northern Renaissance”**
     Link: The Saylor Foundation’s “[Northern
-    Renaissance](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-8.3.1-Northern-Renaissance-FINAL.pdf)”
+    Renaissance](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-8.3.1-Northern-Renaissance-FINAL.pdf)”
     (PDF).  
         
      Instructions: Please read “Northern Renaissance.” As you read,
@@ -280,7 +280,7 @@ id="8.2.4"></span> 
 **8.3.3 Art and Architecture** <span id="8.3.3"></span> 
 -   **Reading: The Saylor Foundation’s “Art and Architecture”**
     Link: The Saylor Foundation’s “[Art and
-    Architecture](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-8.3.3-Art-and-Architecture-FINAL1.pdf)”
+    Architecture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-8.3.3-Art-and-Architecture-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read "Art and Architecture.”  As you read,
@@ -308,7 +308,7 @@ id="8.2.4"></span> 
 **8.3.4 Politics and State-building** <span id="8.3.4"></span> 
 -   **Reading: The Saylor Foundation’s “Politics and State-building”**
     Link: The Saylor Foundation’s “[Politics and
-    State-building](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-8.3.4-Politics-and-State-Building-FINAL.pdf)”
+    State-building](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-8.3.4-Politics-and-State-Building-FINAL.pdf)”
     (PDF).  
         
      Instructions: Please read "Politics and State-building.”  As you

@@ -168,7 +168,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.1.5 Slavs and Magyars** <span id="2.1.5"></span> 
 -   **Reading: John Radzilowski’s “The Slavs”**
     Link: John Radzilowski’s [“The
-    Slavs”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Slavs.pdf)
+    Slavs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/The-Slavs.pdf)
     (PDF)  
         
      Instructions: Read this article on the Slavs.  
@@ -180,7 +180,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation's "Slavs"**
     Link: The Saylor Foundation’s
-    “[Slavs](https://resources.saylor.org/archived/wp-content/uploads/2012/08/HIST302-2.1.5-Slavs-FINAL.pdf)”  
+    “[Slavs](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/HIST302-2.1.5-Slavs-FINAL.pdf)”  
         
      Instructions: Please read "Slavs."  As you read, consider the
     following questions: what factors characterized early migration
@@ -193,7 +193,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.1.6 Effect on Western Europe** <span id="2.1.6"></span> 
 -   **Reading: The Saylor Foundation's "Effect on Western Europe"**
     Link: The Saylor Foundation's "[Effect on Western
-    Europe](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-2.1.6-Effects-on-Western-Europe-FINAL1.pdf)"
+    Europe](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-2.1.6-Effects-on-Western-Europe-FINAL1.pdf)"
     (PDF)  
       
      Instructions: Please read "Effect on Western Europe." As you read,

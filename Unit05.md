@@ -60,7 +60,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.1.1 Elite Culture** <span id="5.1.1"></span> 
 -   **Reading: Reading: The Saylor Foundation’s “Elite Culture”**
     Link: The Saylor Foundation’s “[Elite
-    Culture](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.1.1-Elite-Culture-FINAL.pdf)”
+    Culture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.1.1-Elite-Culture-FINAL.pdf)”
     (PDF).  
         
      Instructions: Please read "Elite Culture."  As you read, answer the
@@ -98,7 +98,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.1.3 Universities** <span id="5.1.3"></span> 
 -   **Reading: Reading: The Saylor Foundation’s “Universities”**
     Link: The Saylor Foundation’s
-    “[Universities](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.1.3-Universities-FINAL1.pdf)”
+    “[Universities](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.1.3-Universities-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read "Universities."  As you read, consider
@@ -116,7 +116,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Reading: The Saylor Foundation’s “Science and
     Philosophy”**
     Link: The Saylor Foundation’s “[Science and
-    Philosophy](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.1.4-Science-and-Philosophy-FINAL.pdf)”
+    Philosophy](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.1.4-Science-and-Philosophy-FINAL.pdf)”
     (PDF).  
         
      Instructions: Please click on the link above, and read the entire
@@ -162,7 +162,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “The Development of
     Agriculture”**
     Link: The Saylor Foundation’s “[The Development of
-    Agriculture](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.1.4-Science-and-Philosophy-FINAL.pdf)”
+    Agriculture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.1.4-Science-and-Philosophy-FINAL.pdf)”
     (PDF).  
         
      Instructions: Please read "The Development of Agriculture."  As you
@@ -211,7 +211,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.2.5 Military Technology** <span id="5.2.5"></span> 
 -   **Reading: The Saylor Foundation’s “Military Technology”**
     Link: The Saylor Foundation’s “[Military
-    Technology](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.2.5-Military-Technology-FINAL1.pdf)”
+    Technology](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.2.5-Military-Technology-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read "Military Technology."  As you read, try
@@ -228,7 +228,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “Overview of Medieval
     Architecture”**
     Link: The Saylor Foundation’s “[Overview of Medieval
-    Architecture](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.3.1-Medieval-Architecture-FINAL1.pdf)”
+    Architecture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.3.1-Medieval-Architecture-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read "Overview of Medieval Architecture."  As
@@ -243,7 +243,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.3.2 Gothic Cathedrals** <span id="5.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Gothic Cathedrals”**
     Link: The Saylor Foundation’s “[Gothic
-    Cathedrals](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.3.2-Gothic-Cathedrals-FINAL1.pdf)”
+    Cathedrals](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.3.2-Gothic-Cathedrals-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above, and read the entire
@@ -257,7 +257,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.3.3 Visual Arts** <span id="5.3.3"></span> 
 -   **Reading: The Saylor Foundation's “Visual Arts”**
     Link: The Saylor Foundation's “[Visual
-    Arts](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.3.3-Visual-Arts.FINAL_.pdf)”
+    Arts](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.3.3-Visual-Arts.FINAL_.pdf)”
     (PDF).   
       
      Instructions: Please read "Visual Arts." As you read, ask yourself
@@ -270,7 +270,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.3.4 Illuminated Manuscripts** <span id="5.3.4"></span> 
 -   **Reading: The Saylor Foundation's "Illuminated Manuscripts”**
     Link: The Saylor Foundation's "[Illuminated
-    Manuscripts](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.3.4-Illuminated-Manuscripts-FINAL1.pdf)”
+    Manuscripts](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.3.4-Illuminated-Manuscripts-FINAL1.pdf)”
     (PDF).   
       
      Instructions: Please read "Illuminated Manuscripts." As you read,
@@ -284,7 +284,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.4.1 Chant** <span id="5.4.1"></span> 
 -   **Reading: The Saylor Foundation's "Chant"**
     Link: The Saylor Foundation's
-    "[Chant](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.4.1-Chant-FINAL1.pdf)"
+    "[Chant](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.4.1-Chant-FINAL1.pdf)"
     (PDF).   
       
      Instructions: Please read "Chant." As you read, ask yourself the
@@ -364,7 +364,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.5.2 Medieval Mystery Plays** <span id="5.5.2"></span> 
 -   **Reading: The Saylor Foundation's "Medieval Mystery Plays"**
     Link: The Saylor Foundation's "[Medieval Mystery
-    Plays](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST302-5.5.2-Medieval-Mystery-Plays-FINAL1.pdf)"
+    Plays](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST302-5.5.2-Medieval-Mystery-Plays-FINAL1.pdf)"
     (PDF).  
         
      Instructions: Read "Medieval Mystery Plays" to gain an
@@ -403,7 +403,7 @@ Upon successful completion of this unit, the student will be able to:
     Questions Part I”**
     Link: The Saylor Foundation’s “[Medieval Europe Reading Questions
     Part
-    I](https://resources.saylor.org/archived/wp-content/uploads/2011/11/HIST302-PartI-ReadingQuestions-FINAL.pdf)”
+    I](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/HIST302-PartI-ReadingQuestions-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please respond to the questions in the PDF linked
